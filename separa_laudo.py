@@ -6,7 +6,7 @@ from pypdf import PdfReader, PdfWriter
  
 logging.getLogger("pypdf").setLevel(logging.ERROR)
  
-ARQUIVO = r"D:\Arquivos PY\Repositorio-P0\Laudos\Exemplo_LAB_B_3L_4N.pdf"
+ARQUIVO = r"D:\Arquivos PY\Repositorio-P0\Laudos\Exemplo_LAB_B_3L_3N.pdf"
 PASTA_SAIDA = r"D:\Arquivos PY\Repositorio-P0\Laudos_Separados"
 MODELO = "qwen2.5:3b"
  
